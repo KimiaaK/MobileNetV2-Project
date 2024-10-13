@@ -47,11 +47,11 @@ This project applies MobileNetV2 for detecting strawberry diseases using a deep 
 To train the model on your dataset, use the following command:
 
 ```sh
-python scripts/train.py --data data/dataset_path --epochs 10 --batch_size 16 --learning_rate 0.001
+python scripts/train.py --data data/dataset_path --epochs 300 --batch_size 16 --learning_rate 0.001
 ```
 
 - `--data`: Path to the training dataset.
-- `--epochs`: Number of training epochs (default is 10).
+- `--epochs`: Number of training epochs (default is 300).
 - `--batch_size`: Batch size for training (default is 16).
 - `--learning_rate`: Learning rate for the optimizer (default is 0.001).
 
