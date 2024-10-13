@@ -97,11 +97,3 @@ The evaluation script (`evaluate.py`) provides the following metrics:
 - **Classification Report**: Precision, recall, F1-score, and support for each class.
 - **Confusion Matrix**: A visualization of how well the model is classifying each class, helping identify misclassifications.
 
-## License
-
-This project is licensed under the MIT License.
-```
-    }
-  ]
-}
-![image](https://github.com/user-attachments/assets/5e29dea8-3617-4e6d-8546-a7da4ba6527d)
